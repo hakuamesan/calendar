@@ -1,5 +1,6 @@
-# calendar
-Moon phase n merc rx calendar
+# Calendar 2020
+
+Moon phase n Mercury Rx calendar
 
 - rx periods (dates currently incorrect, to be fixed)
 - moon phases
