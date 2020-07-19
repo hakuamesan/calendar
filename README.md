@@ -2,7 +2,7 @@
 
 Moon phase n Mercury Rx calendar
 
-- rx periods (dates currently incorrect, to be fixed)
+- rx periods 
 - moon phases
 
 # Live Demo
