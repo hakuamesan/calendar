@@ -7,3 +7,5 @@ Moon phase n Mercury Rx calendar
 
 # Live Demo
 https://hakuamesan.github.io/calendar/cal2020.html
+https://hakuamesan.github.io/calendar/cal2021.html
+
