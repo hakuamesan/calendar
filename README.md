@@ -1,5 +1,6 @@
 # Calendar 2022
 
+Simple calendar that shows all the months in a year. 
 Moon phase n Mercury Rx calendar
 
 - rx periods 
