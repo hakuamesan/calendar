@@ -1,7 +1,7 @@
 {
-	"name": "2022 Calendar",
-	"short_name": "2022Calendar",
-	"start_url": "/index.html",
+	"name": "2024 Calendar",
+	"short_name": "2024Calendar",
+	"start_url": "/cal2024.html",
 	"scope": "/",
 	"display": "standalone",
 	"orientation": "portrait-primary",
