@@ -3,3 +3,4 @@ node_modules
 .git
 *.zip
 img/favicon.zip
+.DS_Store
