@@ -1,4 +1,4 @@
-# Calendar 2024
+# Calendar 
 
 Simple calendar that shows all the months in a year. 
 Moon phase & Mercury Rx calendar
